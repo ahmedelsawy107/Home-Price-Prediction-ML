@@ -12,11 +12,4 @@ This project focuses on predicting real estate prices in Bangalore, India, using
 * **Tools Used:** Python, Pandas, Numpy, Matplotlib, and Scikit-Learn.
 * **GUI:** Developed a simple Graphical User Interface to predict prices based on area (Square Feet) and number of bedrooms (BHK).
 
-## 📊 Project Preview
-
-Below is a screenshot of the prediction tool in action:
-
-
-
----
 *Developed as part of my technical studies in Computer Science.*
